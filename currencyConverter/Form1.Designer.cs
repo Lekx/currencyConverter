@@ -56,6 +56,7 @@
             // 
             this.dolaresForma.BackColor = System.Drawing.Color.White;
             this.dolaresForma.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.dolaresForma.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.dolaresForma.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dolaresForma.ForeColor = System.Drawing.Color.CornflowerBlue;
             this.dolaresForma.Location = new System.Drawing.Point(112, 270);
